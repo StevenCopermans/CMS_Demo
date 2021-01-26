@@ -14,7 +14,7 @@ function Header() {
 				{/* Shop name */}
 				<Grid item>
 					<Typography variant="h4" component="h1">
-						Pizza trut
+						Pizza
 					</Typography>
 				</Grid>
 
@@ -23,17 +23,7 @@ function Header() {
 					<Grid container>
 						<Grid item>
 							<Typography variant="h4" component="h1">
-								Menu's
-							</Typography>
-						</Grid>
-						<Grid item>
-							<Typography variant="h4" component="h1">
 								Pizza's
-							</Typography>
-						</Grid>
-						<Grid item>
-							<Typography variant="h4" component="h1">
-								Specials
 							</Typography>
 						</Grid>
 					</Grid>
@@ -42,7 +32,7 @@ function Header() {
 				{/* Login */}
 				<Grid item>
 					<Typography variant="h4" component="h1">
-						Pizza trut
+						Login
 					</Typography>
 				</Grid>
 			</Grid>
